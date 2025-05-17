@@ -1,6 +1,7 @@
 # 📊 Vrinda Store Annual Report 2023 - Sales Analysis Dashboard
 
 Welcome to the **Vrinda Store Sales Analysis** project! This interactive Excel dashboard presents a complete breakdown of customer demographics, sales performance, and channel insights to help understand **Diwali season sales trends** and drive better business decisions.
+![Vrinda Store Dashboard](images/vrinda_dashboard.png.png)
 
 ---
 
